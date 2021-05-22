@@ -1,0 +1,116 @@
+@media screen and (max-width: 992px) {
+    .page-logo {
+        max-width: 70%;
+        height: auto;
+    }
+}
+
+@media screen and (max-width: 885px) {
+    .banner h1 {
+        font-size: 4.8rem;
+    }
+
+    .welcome-title {
+        top: 29px;
+    }
+}
+
+
+
+@media screen and (max-width: 768px) {
+    .banner h1 {
+        font-size: 4rem;
+    }
+
+    .welcome-title {
+        top: 23px;
+        font-size: 22px;
+        letter-spacing: 2px;
+    }
+
+    .home-client-name {
+        font-size: 18px;
+    }
+
+    .bgbanner h1 {
+        font-size: 20px;
+    }
+
+    .page-logo {
+        max-width: 80%;
+        height: auto;
+    }
+
+    .tm-details-wrapper .tm-details h6 {
+        font-size: 18px;
+    }
+}
+
+@media screen and (max-width: 690px) {
+    .banner h1 {
+        font-size: 3.8rem;
+    }
+
+    .welcome-title {
+        top: 25px;
+        font-size: 22px;
+    }
+
+    .tm-details-wrapper .tm-details h5 {
+        font-size: 14px;
+    }
+}
+
+@media screen and (max-width: 576px) {
+    .home-header {
+        margin-bottom: 0.5rem;
+    }
+
+    .search-client-form {
+        margin-bottom: 1rem;
+    }
+
+    .clients-wrapper{
+        margin-top: 1.5rem;
+    }
+
+    .detail-page-logo {
+        max-width: 85%;
+        height: auto;
+    }
+
+    detailsbanner-bg, .homebanner-bg {
+        background-position: 100%;
+    }
+
+
+
+}
+
+@media screen and (max-width: 500px) {
+    .banner h1 {
+        font-size: 47px;
+        letter-spacing: 4px;
+    }
+
+    .welcome-title {
+        top: 19px;
+        font-size: 17px;
+    }
+}
+
+@media screen and (max-width: 315px) {
+    .banner h1 {
+        font-size: 19px;
+        letter-spacing: normal;
+    }
+
+    .welcome-title {
+        top: 19px;
+        font-size: 17px;
+    }
+
+    .home-header {
+        flex-wrap: wrap;
+    }
+}
